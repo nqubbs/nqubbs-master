@@ -1,0 +1,14 @@
+*.a
+*.o
+*.pyc
+.depend
+.clang_complete
+tags
+var.h
+/pttbbs.conf
+/local.h
+common/sys/big5.c
+mbbsd/mbbsd
+mbbsd/testmbbsd
+mbbsd/testsz
+mbbsd/vers.c
